@@ -1,4 +1,3 @@
-# Sky-Analytic
 # ✈️ SKY- ANALYTICS: Analyzing Indian Flight Prices and Patterns
 
 Unlocking the dynamics of Indian flight pricing through data, visuals, and storytelling!
@@ -44,8 +43,3 @@ Flight fares in India fluctuate based on myriad factors—airline, route, timing
 - Identification of the most expensive and cheapest flight corridors in India.
   
 ---
-
-## 📝 How to Use
-1. **Clone the repo**:
-   ```bash
-   git clone [https://github.com/faddednatasha/Sky-Analytics.git](https://github.com/faddednatasha/Sky-Analytics.git)
